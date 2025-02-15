@@ -89,5 +89,8 @@
     "url": "https://github.com/Sayune-Shiranai/SayuneNovel_2/issues"
   },
   "homepage": "https://github.com/Sayune-Shiranai/SayuneNovel_2#readme",
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
 }
